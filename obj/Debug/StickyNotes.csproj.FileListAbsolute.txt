@@ -1,0 +1,11 @@
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\bin\Debug\StickyNotes.exe.config
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\bin\Debug\StickyNotes.exe
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\bin\Debug\StickyNotes.pdb
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csproj.AssemblyReference.cache
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.StickyNotes.resources
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.Properties.Resources.resources
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csproj.GenerateResource.cache
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csproj.CoreCompileInputs.cache
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.exe
+C:\Users\jayas\source\repos\StickyNotes\StickyNotes\obj\Debug\StickyNotes.pdb
